@@ -8,23 +8,23 @@ This project is an interactive Power BI dashboard built using survey data from d
 
 ![Dashboard](dashboard.png)
 
-## Key Insights
+## Features & Visualizations
 
 - Analyzed responses from 630 survey participants from an already available survey dataset.
-- Visualized country-wise distribution of survey respondents.
-- Explored favorite programming languages by job title.
-- Compared average salaries across different data-related job roles.
-- Analyzed how difficult respondents found it to enter the data industry.
-- Displayed KPIs such as Count of Survey Takers, Average Age, Work-Life Balance Rating, and Salary Satisfaction Rating.
+- Treemap - Visualized country-wise distribution of survey respondents.
+- Stacked column chart - Explored programming languages preferences by profession.
+- Stacked bar chart - Compared average salaries across different data-related job roles.
+- Donut chart - Analyzed how difficult respondents found it to enter the data industry.
+- Cards - Displayed KPIs such as Count of Survey Takers and Average Age.
+- Gauges - Displayed KPIs such as Work-Life Balance Rating and Salary Satisfaction Rating.
 
-## Visualizations
+## Key Insights
 
-- Treemap
-- Stacked column chart
-- Stacked bar chart
-- Donut chart
-- Cards
-- Gauges
+- Data Scientists reported the highest average salaries among all surveyed job roles.
+- Python was the most preferred programming language across multiple data-related professions.
+- Salary satisfaction was noticeably lower than work-life balance.
+- Most participants found it moderately difficult to break into the data industry.
+- The majority of survey responses came from the United States, followed by other countries.
 
 ## Tools & Technologies
 
